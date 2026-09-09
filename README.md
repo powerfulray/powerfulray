@@ -1,8 +1,5 @@
 # Hi 👋, I'm RAY
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=powerfulray&label=Profile views&color=0e75b6&style=flat" alt="powerfulray" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=powerfulray" alt="powerfulray" /></a> </p>
 
 - 🔭 I'm currently working on **基于WiFi CSI的室内无人机器人定位**
 
